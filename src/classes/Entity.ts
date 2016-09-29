@@ -1,7 +1,7 @@
 abstract class Entity {
     protected x_pos: number;
     protected y_pos: number;
-    proctected z_pos: number;
+    protected z_pos: number;
     
     // constructor //
     protected Entity(x_pos: number, y_pos: number, z_pos: number) {
